@@ -7,7 +7,7 @@ Prior experimental and observational studies measured the aboveground recovery r
 
 ## Objectives
 
-I am systematically review and synthesize the available primary literature on seagrass ecosystem disturbance and recovery to:
+I am systematically reviewing and synthesizing the available primary literature on seagrass ecosystem disturbance and recovery to:
 1) determine the primary drivers of disturbance within seagrass ecosystems
 2) identify drivers and patterns of recovery within seagrass ecosystems
 3) provide a general, first-order quantitative model of seagrass recovery rates for ecosystem management.
